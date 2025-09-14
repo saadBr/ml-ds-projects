@@ -39,7 +39,7 @@ to business and marketing analytics.
 ### 4. 📢 Advertising Spend Optimization
 - **Goal:** Predict sales based on ad spend (TV, Radio, Newspaper).  
 - **Techniques:** Multiple Linear Regression, Model Evaluation.  
-- **Dataset:** - **Dataset:** [`advertising.csv`](data/advertising.csv)
+- **Dataset:** - **Dataset:** [`advertising.csv`](data/Advertising.csv)
 - **Notebook:** [`advertising.ipynb`](advertising.ipynb)  
 
 ---
