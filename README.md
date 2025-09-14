@@ -31,7 +31,7 @@ to business and marketing analytics.
 ### 3. 📊 Sales Analysis & Forecasting
 - **Goal:** Analyze and forecast sales using multiple Excel sheets (Orders, Customers, Regions).  
 - **Techniques:** Pandas, Seaborn, Regression.  
-- **Dataset:** [`sales.csv`](data/sales.xlsx)
+- **Dataset:** [`sales.xlsx`](data/sales.xlsx)
 - **Notebook:** [`Sales.ipynb`](Sales.ipynb)  
 
 ---
