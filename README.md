@@ -23,7 +23,7 @@ to business and marketing analytics.
 ### 2. 🩺 Diabetes Classification
 - **Goal:** Classify patients as diabetic or not based on medical attributes.  
 - **Techniques:** Logistic Regression, Confusion Matrix, F1 Score.  
-- **Dataset:** [`diabetes.csv`](Data/diabetes.csv)
+- **Dataset:** [`diabetes.csv`](data/diabetes.csv)
 - **Notebook:** [`diabetes.ipynb`](diabetes.ipynb)  
 
 ---
@@ -31,7 +31,7 @@ to business and marketing analytics.
 ### 3. 📊 Sales Analysis & Forecasting
 - **Goal:** Analyze and forecast sales using multiple Excel sheets (Orders, Customers, Regions).  
 - **Techniques:** Pandas, Seaborn, Regression.  
-- **Dataset:** [`sales.csv`](Data/sales.xlsx)
+- **Dataset:** [`sales.csv`](data/sales.xlsx)
 - **Notebook:** [`Sales.ipynb`](Sales.ipynb)  
 
 ---
@@ -39,7 +39,7 @@ to business and marketing analytics.
 ### 4. 📢 Advertising Spend Optimization
 - **Goal:** Predict sales based on ad spend (TV, Radio, Newspaper).  
 - **Techniques:** Multiple Linear Regression, Model Evaluation.  
-- **Dataset:** - **Dataset:** [`advertising.csv`](Data/advertising.csv)
+- **Dataset:** - **Dataset:** [`advertising.csv`](data/advertising.csv)
 - **Notebook:** [`advertising.ipynb`](advertising.ipynb)  
 
 ---
